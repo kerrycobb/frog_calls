@@ -1,4 +1,5 @@
-# Toggle
-Plugin for reveal.js allowing for elements of slides to be toggled between visible and hidden and allowing slide order to be shuffled. This can be used as a teaching and studying tool.
+Auburn University herpetology lab study tool for frog calls. 
 
-[View Demo Here](https://kerrycobb.github.io/toggle)
+To use visit: https://kerrycobb.github.io/frog_calls/
+
+Built with [memorize.js](https://github.com/kerrycobb/memorize.js)
